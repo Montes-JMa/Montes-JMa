@@ -1,7 +1,6 @@
 - 👋 Hi, I’m  José María Montes Montiel // @Montes-JMa
 - 👀 I’m interested in bioinformatics, machine learning, molecular dynamics and neuroscience
-- 🌱 I’m currently learning about visualization of data and web design
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning about visualization of data and web design 
 - 📫 How to reach me in jmontes@ifc.unam.mx
 
 <!---
